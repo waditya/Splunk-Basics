@@ -21,6 +21,11 @@ Splunk Basics
 
 ![image](https://user-images.githubusercontent.com/4469379/45073836-9e32f700-b0a6-11e8-9707-feb2ed4d1ad1.png)
 
+## Summary View - App Search and Reporting
+
+![image](https://user-images.githubusercontent.com/4469379/45073918-f833bc80-b0a6-11e8-9f6c-7d607eafab3f.png)
+
+
 
 
 

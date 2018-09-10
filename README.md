@@ -8,7 +8,7 @@ Splunk Basics
 
 ![image](https://user-images.githubusercontent.com/4469379/45068574-b2b6c580-b08d-11e8-931f-b54fb869735d.png)
 
-## Explore Splunk
+## Explore Splunk.
 
 ![image](https://user-images.githubusercontent.com/4469379/45068669-3a043900-b08e-11e8-8d92-359c62673b74.png)
 

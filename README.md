@@ -12,7 +12,7 @@ Splunk Basics
 
 ![image](https://user-images.githubusercontent.com/4469379/45068669-3a043900-b08e-11e8-8d92-359c62673b74.png)
 
-## Manage Apps.
+## Manage Apps
 
 ![image](https://user-images.githubusercontent.com/4469379/45073685-ffa69600-b0a5-11e8-92bf-47025294b4c5.png)
 

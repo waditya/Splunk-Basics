@@ -16,7 +16,7 @@ Splunk Basics
 
 ![image](https://user-images.githubusercontent.com/4469379/45073685-ffa69600-b0a5-11e8-92bf-47025294b4c5.png)
 
-## Install Data Generator App from File.
+## Install Data Generator App from File
 
 ![image](https://user-images.githubusercontent.com/4469379/45073836-9e32f700-b0a6-11e8-9707-feb2ed4d1ad1.png)
 

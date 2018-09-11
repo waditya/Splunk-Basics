@@ -1,4 +1,4 @@
-# Splunk-Basics.
+# Splunk-Basics
 Splunk Basics
 
 ## Splunk Admin Page.

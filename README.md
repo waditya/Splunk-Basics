@@ -24,6 +24,8 @@ Splunk Basics
 
 ![image](https://user-images.githubusercontent.com/4469379/45073918-f833bc80-b0a6-11e8-9f6c-7d607eafab3f.png)
 
+## Explore Splunk Arithmetic Operations Beginner
+PerformSplunkArithmeticOperations.JPG
 
 
 
